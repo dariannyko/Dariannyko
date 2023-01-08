@@ -9,12 +9,4 @@
 <img align='left' alt='JavaScript' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
 <img align='left' alt='GitHub' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' />
 <img align='left' alt='React' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' />
-<img align='left' alt='GitHub' width='32px' src='https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png' />
 
-
-<br/>
-
-### Contacts
-[<img align='left' alt='GitHub' width='22px' src='https://cdn-icons-png.flaticon.com/128/542/542689.png' />](mailto:dariannyko@gmail.com)
-[<img align='left' alt='GitHub' width='22px' src='https://cdn-icons-png.flaticon.com/128/2111/2111708.png' />](https://t.me/dariannyko "Telegram") 
-[<img align='left' alt='GitHub' width='22px' src='https://cdn-icons-png.flaticon.com/128/733/733635.png' />](https://twitter.com/dariannyko/) 
