@@ -1,5 +1,5 @@
-## 👋 Hi! I'm Daria, Frontend Developer
-- I like creating new stuff and learning new things
+## 👋 Hi! I'm Daria
+- I like developing interfaces and learning new things
 - Creative developer with experience in design
 
 ### Skills and Tools
