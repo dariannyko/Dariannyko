@@ -1,4 +1,6 @@
 ## 👋 Hi! I'm Daria
+
+### Frontend developer
 - I like developing interfaces and learning new things
 - Creative developer with experience in design 
 - Looking for new oportunities 
