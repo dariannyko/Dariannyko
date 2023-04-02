@@ -10,7 +10,7 @@
   <a href='https://react.dev/'><img alt='React' width='38px' src='https://khudyakovm.github.io/assets/images/skills/react.png'/></a>
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img alt='JavaScript' width='36px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg'/></a>
   <a href='https://www.typescriptlang.org/'><img alt='TypeScript' width='36px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg'/></a>
-   <a href='https://redux.js.org/'><img alt='Redux' width='36px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg'/></a>
+   <a href='https://redux-toolkit.js.org/'><img alt='Redux' width='36px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg'/></a>
  <a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'><img alt='HTML' width='36px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg'/></a>
  <a href='https://www.w3.org/TR/CSS/#css'><img alt='CSS' width='36px' src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg'/></a>
   <a href='https://sass-lang.com/'><img alt='Sass' width='36px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png'/></a>
